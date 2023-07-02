@@ -1,2 +1,3 @@
 # Random_Note
 A mobile app for note taking etc...
+Language used: Python
